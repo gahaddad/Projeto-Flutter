@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341241413534",
+    "project_id": "crud-bfa02",
+    "storage_bucket": "crud-bfa02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341241413534:android:6d77cec14f75cc0965a08f",
+        "android_client_info": {
+          "package_name": "com.fatec.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341241413534-p16dj65sslm44gq1qrgoevn89u4sdc95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZwm-jWtKnQ-4H9oYTQvbkYolRlx-e9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341241413534-p16dj65sslm44gq1qrgoevn89u4sdc95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
